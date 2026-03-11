@@ -5,10 +5,10 @@ Hi, I'm Huzaifa 👋
 
 Cloud and IT Infrastructure enthusiast with hands-on experience in:
 
-*Microsoft Azure
-*Active Directory
-*Networking and VPN configuration
-*Virtualization
+-Microsoft Azure
+-Active Directory
+-Networking and VPN configuration
+-Virtualization
 
 Projects:
 - Azure Point-to-Site VPN Setup
